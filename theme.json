@@ -12,6 +12,18 @@
       "title": "Blog"
     }
   ],
+  "templateParts": [
+    {
+      "area": "header",
+      "name": "header",
+      "title": "Header"
+    },
+    {
+      "area": "header",
+      "name": "header-cover",
+      "title": "Header Hero"
+    }
+  ],
   "settings": {
     "appearanceTools": true,
     "color": {
@@ -233,17 +245,5 @@
         }
       }
     }
-  },
-  "templateParts": [
-    {
-      "area": "header",
-      "name": "header",
-      "title": "Header"
-    },
-    {
-      "area": "header",
-      "name": "header-cover",
-      "title": "Header Hero"
-    }
-  ]
+  }
 }
