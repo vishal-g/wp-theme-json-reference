@@ -18,7 +18,8 @@
       "defaultDuotone": false,
       "defaultGradients": false,
       "defaultPalette": false,
-       "useRootPaddingAwareAlignments": true
+      "useRootPaddingAwareAlignments": true,
+      "version": 2,
       "gradients": [
         {
           "gradient": "linear-gradient(180deg, var(--wp--preset--color--secondary) 0%, var(--wp--preset--color--secondary) 73%, var(--wp--preset--color--background) 73%, var(--wp--preset--color--background) 100%)",
@@ -244,6 +245,5 @@
       "name": "header-cover",
       "title": "Header Hero"
     }
-  ],
-  "version": 2
+  ]
 }
